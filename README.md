@@ -1,7 +1,7 @@
 <h1 align="center">Hello!! Misael Alvarez</h1>
-<h3 align="center">I'm Applied Mathematics Student and Beta Microsoft Learn Student Ambassador</h3>
+<h3 align="center">I'm Applied Mathematician</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, Deep Learning, Computer Science**
+- 🌱 I’m Data Scientist Sr & Head of Artificial Intelligence at Banorte**
 
 - 💬 Ask me about **Data Science, Machine Learning, Mathematics**
 
