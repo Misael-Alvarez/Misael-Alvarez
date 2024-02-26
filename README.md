@@ -1,7 +1,7 @@
 <h1 align="center">Hello!! Misael Alvarez</h1>
 <h3 align="center">I'm Applied Mathematician</h3>
 
-- 🌱 I’m Data Scientist Sr & Head of Artificial Intelligence at Banorte**
+- 🌱 I’m Data Scientist and Artificial Intelligence Specialist
 
 - 💬 Ask me about **Data Science, Machine Learning, Mathematics**
 
